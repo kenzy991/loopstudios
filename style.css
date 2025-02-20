@@ -501,7 +501,7 @@ footer {
     .header2 .h1 {
         width: 100%;
         text-align: center;
-        font-size: 1.8rem;
+        font-size: 1.5rem;
     }
     
     .button  {
@@ -523,7 +523,7 @@ footer {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        padding: 0px 20px 0px 50px;
+        padding: 0px 20px 0px 20px;
     }
     
     .card-top, .card-bottom {
